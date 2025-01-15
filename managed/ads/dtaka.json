@@ -11,16 +11,28 @@
         "image": "images/dtaka_res_1.png",
         "url": "https://dtaka.ph"
     },
-        {
+    {
         "id": 3,
         "title": "Rewards",
         "image": "images/dtaka_ad_2.png",
-        "url": "https://dtaka.ph"
+        "url": "https://consumer.huawei.com/ph/"
     },
     {
         "id": 4,
         "title": "Rewards",
         "image": "images/dtaka_res_2.png",
-        "url": "https://dtaka.ph"
+        "url": "https://consumer.huawei.com/ph/"
+    },
+        {
+        "id": 5,
+        "title": "Rewards",
+        "image": "images/dtaka_ad_3.png",
+        "url": "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent"
+    },
+    {
+        "id": 6,
+        "title": "Rewards",
+        "image": "images/dtaka_res_3.png",
+        "url": "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent"
     }
 ]
