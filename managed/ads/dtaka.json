@@ -10,5 +10,17 @@
         "title": "Rewards",
         "image": "images/dtaka_res_1.png",
         "url": "https://dtaka.ph"
+    },
+        {
+        "id": 3,
+        "title": "Rewards",
+        "image": "images/dtaka_ad_2.png",
+        "url": "https://dtaka.ph"
+    },
+    {
+        "id": 4,
+        "title": "Rewards",
+        "image": "images/dtaka_res_2.png",
+        "url": "https://dtaka.ph"
     }
 ]
