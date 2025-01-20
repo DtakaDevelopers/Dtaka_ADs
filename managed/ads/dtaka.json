@@ -23,7 +23,7 @@
         "image": "images/dtaka_res_2.png",
         "url": "https://consumer.huawei.com/ph/"
     },
-        {
+    {
         "id": 5,
         "title": "Rewards",
         "image": "images/dtaka_ad_3.png",
@@ -34,9 +34,8 @@
         "title": "Rewards",
         "image": "images/dtaka_res_3.png",
         "url": "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent"
-    }
-        },
-        {
+    },
+    {
         "id": 7,
         "title": "Rewards",
         "image": "images/dtaka_ad_4.png",
